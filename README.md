@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/78101027/145037360-5259acb5-f4fe-41cd-add7-b17804b6d0ea.png)
+# 🌠 AdvancedPet 🌠
 
-# 🌠 AdvancedPet-Wiki 🌠
+![image](https://user-images.githubusercontent.com/78101027/145037360-5259acb5-f4fe-41cd-add7-b17804b6d0ea.png)
 
 Welcome to the AdvancedPet Wiki !
 
