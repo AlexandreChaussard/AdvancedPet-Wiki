@@ -11,7 +11,7 @@ Navigate through the [wiki pages](https://github.com/AlexandreChaussard/Advanced
 This plugin requires the following dependencies to work :
 - ModelEngine r2.2.0 at least
 - MythicMobs compatible with ModelEngine r2.2.0 (see dev builds)
-- WorldGuard & WorldEdit (for flag management)
+- (optional if you wan the custom flags) WorldGuard & WorldEdit
 
 # Overview
 
