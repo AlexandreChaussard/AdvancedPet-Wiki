@@ -1,0 +1,27 @@
+# Change the default prefix in the chat
+Prefix: §8[§6AdvancedPet§8] »
+# Change the default name of the pet on spawn (not visible)
+DefaultName: §9Pet of %player%
+# Says whether the menu should open on right click or not (usually false coz we like pet animations)
+RightClickToOpenMenu: false
+# Says whether the menu should open on left click or not (usually true coz it's working better than right click)
+LeftClickToOpenMenu: true
+# Should the interaction menu open on when player is sneaking ?
+SneakMode: false
+# Should all pet be nameable by default ?
+Nameable: true
+# Should all pet be mountable by default ?
+Mountable: true
+# What's the minimum distance before the pet get tp back to owner when he's not flying ?
+DistanceTeleport: 30
+# What's the max length name of a pet (color code excluded)
+MaxNameLenght: 16
+# Should the inventory adapts its size to the number of pets (-1) or should it have a fixed size (up to 54)
+InventorySize: -1
+# Parameters of your SQL
+MySQL:
+  User: user
+  Password: password
+  Host: ip
+  Port: 0
+  Database: db_name
