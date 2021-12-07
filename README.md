@@ -4,7 +4,7 @@
 
 Welcome to the AdvancedPet Wiki !
 
-Navigate through the [wiki pages](https://github.com/AlexandreChaussard/AdvancedPet-Wiki/Wiki) to find whatever information you need about the plugin.
+Navigate through the [wiki pages](https://github.com/AlexandreChaussard/AdvancedPet-Wiki/wiki) to find whatever information you need about the plugin.
 
 # ⚠️ Requirements ⚠️
 
