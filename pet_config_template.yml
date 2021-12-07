@@ -41,7 +41,7 @@ Icon:
   - This is a line of description
   - This is another one
 Signals:
-  # List the signals you want to cast to the pet
+  # List the signals you want to cast to the pet (can be empty)
   # Make sure the pet is actually listening to these signals or nothing will happen
   Values:
   - ATTACK
