@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/78101027/145037360-5259acb5-f4fe-41cd-add7-b17804b6d0ea.png)
+# 🌠 AdvancedPet 🌠
 
-# 🌠 AdvancedPet-Wiki 🌠
+![image](https://user-images.githubusercontent.com/78101027/145037360-5259acb5-f4fe-41cd-add7-b17804b6d0ea.png)
 
 Welcome to the AdvancedPet Wiki !
 
@@ -11,7 +11,7 @@ Navigate through the [wiki pages](https://github.com/AlexandreChaussard/Advanced
 This plugin requires the following dependencies to work :
 - ModelEngine r2.2.0 at least
 - MythicMobs compatible with ModelEngine r2.2.0 (see dev builds)
-- WorldGuard & WorldEdit (for flag management)
+- (optional if you wan the custom flags) WorldGuard & WorldEdit
 
 # Overview
 
