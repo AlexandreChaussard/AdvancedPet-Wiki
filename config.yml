@@ -18,6 +18,8 @@ DistanceTeleport: 30
 MaxNameLenght: 16
 # Should the inventory adapts its size to the number of pets (-1) or should it have a fixed size (up to 54)
 InventorySize: -1
+# Whether the icon to go back into the pet selection menu should be showed in the pet interaction menu or not
+ActivateBackMenuIcon: true
 # Parameters of your SQL
 MySQL:
   User: user
