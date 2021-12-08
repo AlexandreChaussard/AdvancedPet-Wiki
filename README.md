@@ -1,6 +1,8 @@
 # 🌠 AdvancedPet 🌠
 
-![image](https://user-images.githubusercontent.com/78101027/145037360-5259acb5-f4fe-41cd-add7-b17804b6d0ea.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78101027/145074606-0f4e4fce-414c-455a-a26b-4619af0a6650.png" alt="AdvancedPet logo">
+</p>
 
 Welcome to the AdvancedPet Wiki !
 
