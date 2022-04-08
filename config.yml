@@ -1,5 +1,5 @@
 # Change the default prefix in the chat
-Prefix: §8[§6AdvancedPet§8] »
+Prefix: §8[§6MCPets§8] »
 # Change the default name of the pet on spawn (not visible)
 DefaultName: §9Pet of %player%
 # Says whether the menu should open on right click or not (usually false coz we like pet animations)
