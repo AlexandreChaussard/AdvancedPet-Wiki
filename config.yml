@@ -20,6 +20,8 @@ MaxNameLenght: 16
 InventorySize: -1
 # Whether the icon to go back into the pet selection menu should be showed in the pet interaction menu or not
 ActivateBackMenuIcon: true
+# Should the player be dismounted when taking damages on his mount
+DismountOnDamaged: true
 # Parameters of your SQL
 MySQL:
   User: user
